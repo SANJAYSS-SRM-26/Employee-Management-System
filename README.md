@@ -1,7 +1,7 @@
 # Employee Management System
 
 ## Overview
-The **Employee Management System** is a full-stack web application designed to manage employee records efficiently. It includes features for adding, updating, deleting, and viewing employee details. The system is built using:
+The **Employee Management System** is a full-stack web application designed to manage employee records efficiently. It includes features for adding, updating, deleting, and viewing employee details. The system is built using :
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
