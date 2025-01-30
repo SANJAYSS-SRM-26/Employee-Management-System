@@ -7,7 +7,6 @@ The **Employee Management System** is a full-stack web application designed to m
 - **Backend:** PHP
 - **Database:** MySQL
 
-![Project Preview](EMPS.png)
 
 
 ## Features
