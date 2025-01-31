@@ -44,8 +44,8 @@ Ensure you have the following installed:
    ```
 3. Import the database:
    - Open **phpMyAdmin**
-   - Create a new database named `employee_db`
-   - Import `employee_db.sql` file (provided in the repository)
+   - Create a new database named `employee_management`
+   - Import `employee_management.sql` file (provided in the repository)
 
 4. Configure Database Connection:
    - Open `config.php`
@@ -54,7 +54,7 @@ Ensure you have the following installed:
    $servername = "localhost";
    $username = "root";
    $password = "";
-   $dbname = "employee_db";
+   $dbname = "employee_management";
    ```
 5. Start Apache & MySQL (XAMPP Control Panel)
 6. Open the browser and navigate to:
